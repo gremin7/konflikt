@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-        String kom = "pierwszy commit";
+        String kom = "konfliktowy commit";
         System.out.println(kom);
     }
 }
